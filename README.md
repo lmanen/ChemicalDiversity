@@ -17,7 +17,7 @@ In order to enable the comprehension of this developed strategy, the next sectio
 To use this code, clone the repository and run the `PyLINS.py` script. The Jupyter Notebook `PyLINS.ipynb` provides an example of how to use the script.
 
 ```bash
-git clone https://github.com/yourusername/PyLINS-2.0.git
-cd PyLINS-2.0
+git clone https://github.com/lmanen/ChemicalDiversity.git
+cd PyLINS
 python PyLINS.py
 
