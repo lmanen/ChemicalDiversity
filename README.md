@@ -18,6 +18,6 @@ To use this code, clone the repository and run the `PyLINS.py` script. The Jupyt
 
 ```bash
 git clone https://github.com/lmanen/ChemicalDiversity.git
-cd PyLINS
+cd ChemicalDiversity
 python PyLINS.py
 
